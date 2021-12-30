@@ -47,7 +47,7 @@ body {
     font-size: 20px;
     padding: 10px;
     margin-left: 200px;
-    margin-right: 20px;
+    margin-right: 200px;
 }
 
 .work {
@@ -62,4 +62,8 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 20px;
     padding-bottom: 20px;
+}
+
+.horiseon {
+    margin-left: 200px;
 }
